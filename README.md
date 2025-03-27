@@ -6,7 +6,7 @@
 - **Языки программирования**: JavaScript, Python  
 - **Фреймворки и библиотеки**: React, React Native, Django  
 - **Базы данных**: PostgreSQL, LiteSQL  
-
+- **Веб-разработка**: HTML, CSS  
 
 ##  Проекты  
 
